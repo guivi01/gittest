@@ -14,7 +14,8 @@ protected: // create from serialization only
 // Attributes
 public:
 	CgittestDoc* GetDocument() const;
-
+	int tony;
+	int vero;
 // Operations
 public:
 
